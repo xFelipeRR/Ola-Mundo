@@ -1,2 +1,2 @@
 # Ola Mundo
- Primeiro repositório criado em Git e Github
+ Primeiro repositório de Git e GitHub
